@@ -1,0 +1,20 @@
+.Numbers
+{
+    font-size: 50px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #333;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 20px;
+    cursor: pointer;
+    width: fit-content;
+    position: relative;
+    align-content: center;
+}
+h1
+{
+    position: relative;
+    text-align: center;
+}
