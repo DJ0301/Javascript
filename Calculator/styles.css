@@ -6,15 +6,27 @@
     background-color: #333;
     border: none;
     border-radius: 5px;
-    padding: 10px 20px;
-    margin: 20px;
+    padding: 10px;
     cursor: pointer;
     width: fit-content;
-    position: relative;
+    position:fixed;
     align-content: center;
+    padding: 30px;
+    align-self: center;
+    margin-left: 33%;
 }
+
 h1
 {
     position: relative;
     text-align: center;
+}
+button
+{
+    padding: 20px;
+    font-size: large;
+    margin: 5px;
+    align-content: center;
+    width: 80px;
+    height: 80px
 }
